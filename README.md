@@ -2,7 +2,7 @@
 
 
 ## Homework 2A
-### I created 3 rotating objects with a background image: a Torus Knot with dynamic shading, a shaded square, and a Phong shader on a sphere shape with a grey texture.
+### I created a reflective plane shooting through a displaced terrain. These two objects are in a skybox. You can use your mouse to move around the screen. There 3 GUI options availible: the user can make the terrain displacement move, they can also choose by how much the teraain can displace, and how fast the terrain can displace.
 
 ## Homework 2B
 ### I created a picture that sharpens as the mouse moves accross the screen.
