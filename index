@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		
+		<title>demo - Phong shader</title>
+		<meta charset="utf-8">
+		<style>
+			
+			body {
+			  	margin: 0px;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+<body>
+
+	<p class="view">
+		<a href="https://github.com/rdtrail/CMPM163-HW1">
+			GitHub Code
+		</a>
+
+
+      <h1 id="CMPM 163">CMPM 163</h1>
+<h2 id="hw1">Homework 1</h2>
+<ul>
+  <li><a href="/CMPM163-HW1/HW1A.html">Part A</a></li>
+</ul>
+
+<ul>
+  <li><a href="/CMPM163-HW1/HW1B.html">Part B</a></li>
+</ul>
+
+
+<ul>
+  <li><a href="/CMPM163-HW1/HW1C.html">Part C</a></li>
+</ul>
+
+<ul>
+  <li><a href="/CMPM163-HW1/HW1D.pdf">Part D</a></li>
+</ul>
+
+
+</body>
+</html>
