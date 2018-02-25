@@ -8,7 +8,7 @@
 ### I created a fire simulation with flame textures as the point sprites. I also created an object in blender as a tree to look like a tree is on fire with a burning forest in the background.
 
 ## Screenshots of Parts A
-![alt text](https://github.com/rdtrail/CMPM163-HW1/blob/master/Screen%20Shot%202018-01-27%20at%209.13.04%20PM.png)
-![alt text](https://github.com/rdtrail/CMPM163-HW1/blob/master/Screen%20Shot%202018-01-27%20at%209.13.16%20PM.png)
+![alt text](https://github.com/rdtrail/CMPM163-HW2/blob/master/Screen%20Shot%202018-02-24%20at%2010.52.42%20PM.png)
 ## Screenshots of Parts B
-![alt text](https://github.com/rdtrail/CMPM163-HW1/blob/master/Screen%20Shot%202018-01-27%20at%2011.54.39%20PM.png)
+![alt text](https://github.com/rdtrail/CMPM163-HW2/blob/master/Screen%20Shot%202018-02-24%20at%2010.52.02%20PM.png)
+![alt text](https://github.com/rdtrail/CMPM163-HW2/blob/master/Screen%20Shot%202018-02-24%20at%2010.51.51%20PM.png)
